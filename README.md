@@ -1,5 +1,5 @@
-# MDSpammers
-Medium spammers dengan 30 Tools Spammers (SMS,Call,Wa).
+# SpamMassal
+Dengan 30 Tools Spammers (SMS,Call,Wa).
 # Spam available
 ```
 - asakita
@@ -34,14 +34,5 @@ Medium spammers dengan 30 Tools Spammers (SMS,Call,Wa).
 # Requirements
 ```
 requests
-```
-# Installation
-```
-$ apt update && apt upgrade
-$ pkg update;pkg install python2
-$ git clone https://github.com/AbilSeno/MDSpammers
-$ cd MDSpammers
-$ pip2 install requests
-$ python2 main.py
 ```
 Ketik ```git pull``` untuk mengupdate script

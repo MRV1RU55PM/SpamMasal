@@ -31,6 +31,9 @@ Dengan 30 Tools Spammers (SMS,Call,Wa).
 - maripinjam
 - sobatbangun
 ```
+# Attention
+Recode? Boleh, tolong lampirkan credit MrRobot Framework
+
 # Requirements
 ```
 requests
